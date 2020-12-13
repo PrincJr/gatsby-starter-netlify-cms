@@ -14,7 +14,7 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
-
+        <meta property="fb:pages" content="251199922067305" />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
